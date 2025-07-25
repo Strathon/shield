@@ -44,21 +44,13 @@ make test
 go install github.com/strathon/shield@latest
 `
 
-### Using Homebrew (macOS/Linux)
-
-`ash
-brew install strathon/shield
-`
-
 ### Binary Releases
 
 Download the latest release from [GitHub Releases](https://github.com/strathon/shield/releases).
 
 ## 📚 Documentation
 
-- [Strathon Documentation](https://docs.strathon.com.br)
-- [CLI Reference](https://docs.strathon.com.br/cli/shield)
-- [API Reference](https://api.strathon.com.br/docs)
+- [GitHub Repository](https://github.com/strathon/shield)
 
 ## 🤝 Contributing
 
